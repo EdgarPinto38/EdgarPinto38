@@ -1,21 +1,20 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
-<h1 align="center">Hi 👋, I'm Kaveen Dinethma</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
+<h1 align="center">Hi 👋, I'm Edgar Pinto</h1>
+<h3 align="center">Passionate Game Development Student | Exploring the Boundless World of Technology</h3>
+
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **OOP with Java**
+- 🌱 I’m currently learning **OOP with C#**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an Undergraduate at **Amerike**
 
-- 💬 Ask me about **Web development | OOC**
+- 💬 Ask me about **Unity development and .NET development**
 
-- 📫 How to reach me **kaveen.dinethma@gmail.com**
+- 📫 How to reach me **edgarpinto010203@gmail.com.com**
   
-- ⚡ Fun fact **Call me as KD**
 
 </td>
 <td width="50%" align="center">
@@ -29,7 +28,7 @@
 
 ---
 
-<h3 align="center">My Statistics:</h3>
+<!--<h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
 <tr border="none">
@@ -48,6 +47,7 @@
 </table>
 
 ---
+-->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
