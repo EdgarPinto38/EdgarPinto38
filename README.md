@@ -17,7 +17,8 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <!--<img align="center" alt="Coding" width="450" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif">-->
+  <iframe src="https://assets.pinterest.com/ext/embed.html?id=832040099882468699" height="438" width="450" frameborder="0" scrolling="no" ></iframe>
 
   </td>
 </tr>
