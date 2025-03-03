@@ -1,79 +1,48 @@
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
-<h1 align="center">Hi 👋, I'm Edgar Pinto</h1>
-<h3 align="center">Passionate Game Development Student</h3>
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🌱 I’m currently learning **OOP with C#**
-
-- 🧑‍🎓 I’m an Undergraduate at **Amerike**
-
-- 💬 Ask me about **Unity development and .NET development**
-
-- 📫 How to reach me **edgarpinto010203@gmail.com.com**
-
-</td>
-<td width="50%" align="center">
-
-  <img align="center" alt="Coding" width="450" src="https://camo.githubusercontent.com/85f7dabbf65dde763829ac24c5c1482eef57a53039a1667a353b04ba1030299d/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f644d4c6d5166434f376c43413267583374772f67697068792e6769663f6369643d6563663035653437616b366d7766753831323236397a7a7238796476353239313039717a70623872737a776e6a613965267269643d67697068792e6769662663743d73">
- 
-  </td>
-</tr>
-</table>
-
----
-
-<!--<h3 align="center">My Statistics:</h3>
+<!-- Encabezado con GIF Zen -->
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Scar1109&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Scar1109&theme=dark&hide_border=false" />
-</td>
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table>
-
----
--->
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://skullsociety.itch.io/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/14803619?s=200&v=4" alt="itchio" height="50" width="50" />
-  </a>
-  <a href="https://www.linkedin.com/in/edgar-pinto-0a25232b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/LinkedIn.svg" alt="linkedin" height="50" width="50" />
-  </a>
-  <a href="https://www.instagram.com/edgarpinto03?igsh=MThvanJrMWEyd2Q0dA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Instagram.svg" alt="instagram" height="50" width="50" />
-  </a>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600" alt="Zen GIF">
 </p>
 
+<h1 align="center">Bienvenido a mi espacio 🌿</h1>
+<p align="center">"La simplicidad es la clave de la verdadera felicidad" – Buda</p>
+
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+## 🌱 Sobre mí  
+
+✨ Apasionado por el desarrollo de software y los videojuegos interactivos. Busco la armonía entre diversion y la funcionalidad en cada proyecto.  
+🌿 Me gusta el código limpio, el diseño intuitivo y las experiencias inmersivas.  
+📚 Siempre aprendiendo y explorando nuevas tecnologías.  
+
+---
+
+## 🛠️ Habilidades  
+
+- 🔹 **Lenguajes:** C#, Java
+- 🎮 **Motores de juego:** Unity 
+- 📱 **Desarrollo móvil:** Android Studio  
+ 
+
+---
+
+## 🌊 Proyectos Destacados  
+
+🔹 **[FiveNightsAtTacubaya](https://github.com/tuusuario/vr-helsing)** – Juego de survival horror inspirado en la exitosa franquicia de five nights at freddy's.  
+🔹 **[Lección de Supervivencia](https://skullsociety.itch.io/leccin-de-supervivencia)** – Juego de toma de decisiones en situaciones de emergencia escolares.  
+🔹 **[Crazy Color Neon Gravity Box Adventure](https://skullsociety.itch.io/crazy-color-neon-gravity-box-adventure)** – Es un juego de reflejos en el cual tendrás que estar cambiando constantemente de gravedad.  
+
+---
+
+## 📬 Conéctate conmigo  
+ 
+💼 **LinkedIn:** [linkedin](https://www.linkedin.com/in/edgar-pinto-0a25232b5/)  
+✉️ **Email:** edgarpinto010203@gmail.com  
+🎮 **itch.io**  [skullsociety](https://skullsociety.itch.io/) 
+
+---
+
+### ☯️ "El código es como el agua: se adapta, fluye y encuentra su camino."  
+
 <p align="center">
-  <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CS.svg" alt="C#" width="50" height="50"/> 
-  </a><!-- TERMINA --> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/C.svg" alt="c" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CPP.svg" alt="cplusplus" width="50" height="50"/>
-  </a>  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Git.svg" alt="git" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/HTML.svg" alt="html5" width="50" height="50"/> </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> 
-  </a>  
-  <!--<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="php" width="50" height="50"/> 
-  </a> -->
-  <a href="https://visualstudio.microsoft.com/es/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/VSCode-Dark.svg" alt="VisualStudioCode" width="50" height="50"/> 
-  <a href="https://unity.com/es" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Unity-Dark.svg" alt="Unity" width="50" height="50"/> 
-  </a> 
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejhjMTA4dTNqa2s0dTh2b3BhaGpyM3A5eXo1M25qanU2MHhhc25ueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NU9hqIw9vN0fm/giphy.gif" width="600" alt="Zen Flow">
 </p>
