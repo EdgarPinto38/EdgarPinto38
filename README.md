@@ -117,13 +117,6 @@ Fast-paced reflex game with gravity-switching mechanics
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EdgarPinto38&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</p>
-
----
 
 ## 📬 Let's Connect!
 
