@@ -19,7 +19,7 @@
 
 Hey there! I'm Edgar, a **Junior Azure DevOps Engineer** passionate about automating everything and making deployments smooth as butter. When I'm not building CI/CD pipelines, you'll find me creating immersive gaming experiences or tinkering with Android apps.
 
-🔹 Currently working at **Onsigna Holdings** in Mexico City  
+🔹 Currently working at **HIR Casa** in Mexico City  
 🔹 Building and deploying cloud solutions with **Azure DevOps**  
 🔹 Automating builds, tests, and releases for web apps and mobile projects  
 🔹 Always learning, always improving ☁️
