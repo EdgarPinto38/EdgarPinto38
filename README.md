@@ -1,48 +1,148 @@
-<!-- Encabezado con GIF Zen -->
+# 🚀 Edgar Adrián Pinto Aquino
+
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600" alt="Zen GIF">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Developer GIF">
 </p>
 
-<h1 align="center">Bienvenido a mi espacio 🌿</h1>
-<p align="center">"La simplicidad es la clave de la verdadera felicidad" – Buda</p>
+<h3 align="center">Azure DevOps Engineer | Game Developer | Android Enthusiast</h3>
+
+<p align="center">
+  <a href="mailto:edgarpinto010203@gmail.com">📧 Email</a> •
+  <a href="https://github.com/EdgarPinto38">💻 GitHub</a> •
+  <a href="https://www.linkedin.com/in/edgar-pinto-0a25232b5/">💼 LinkedIn</a> •
+  <a href="https://skullsociety.itch.io/">🎮 itch.io</a>
+</p>
 
 ---
 
-## 🌱 Sobre mí  
+## 👨‍💻 About Me
 
-✨ Apasionado por el desarrollo de software y los videojuegos interactivos. Busco la armonía entre diversion y la funcionalidad en cada proyecto.  
-🌿 Me gusta el código limpio, el diseño intuitivo y las experiencias inmersivas.  
-📚 Siempre aprendiendo y explorando nuevas tecnologías.  
+Hey there! I'm Edgar, a **Junior Azure DevOps Engineer** passionate about automating everything and making deployments smooth as butter. When I'm not building CI/CD pipelines, you'll find me creating immersive gaming experiences or tinkering with Android apps.
 
----
-
-## 🛠️ Habilidades  
-
-- 🔹 **Lenguajes:** C#, Java
-- 🎮 **Motores de juego:** Unity 
-- 📱 **Desarrollo móvil:** Android Studio  
- 
+🔹 Currently working at **Onsigna Holdings** in Mexico City  
+🔹 Building and deploying cloud solutions with **Azure DevOps**  
+🔹 Automating builds, tests, and releases for web apps and mobile projects  
+🔹 Always learning, always improving ☁️
 
 ---
 
-## 🌊 Proyectos Destacados  
+## 🛠️ What I Work With
 
-🔹 **[FiveNightsAtTacubaya](https://github.com/tuusuario/vr-helsing)** – Juego de survival horror inspirado en la exitosa franquicia de five nights at freddy's.  
-🔹 **[Lección de Supervivencia](https://skullsociety.itch.io/leccin-de-supervivencia)** – Juego de toma de decisiones en situaciones de emergencia escolares.  
-🔹 **[Crazy Color Neon Gravity Box Adventure](https://skullsociety.itch.io/crazy-color-neon-gravity-box-adventure)** – Es un juego de reflejos en el cual tendrás que estar cambiando constantemente de gravedad.  
+### Cloud & DevOps
+```
+Azure DevOps  •  Azure Pipelines  •  Docker  •  CI/CD
+Azure App Service  •  Azure Container Registry  •  Key Vault
+Azure Monitor  •  Application Insights  •  YAML Pipelines
+```
+
+### Development
+```
+C#  •  Java  •  Unity  •  Android Studio
+REST APIs  •  SQL  •  Git  •  Gradle
+```
+
+### Deployment Strategies
+```
+Blue/Green Deployments  •  Canary Releases  •  Rolling Updates
+Deployment Slots  •  Traffic Manager  •  Release Gates
+```
 
 ---
 
-## 📬 Conéctate conmigo  
- 
-💼 **LinkedIn:** [linkedin](https://www.linkedin.com/in/edgar-pinto-0a25232b5/)  
+## 💼 Experience Highlights
+
+### 🏢 Onsigna Holdings (2024 - Present)
+**Android Developer & Azure DevOps Jr**
+
+- 🚀 Built end-to-end CI/CD pipelines using **Azure DevOps YAML**
+- 🔄 Implemented **blue/green** and **canary deployment** strategies
+- 🔐 Managed secrets securely with **Azure Key Vault**
+- 📊 Set up monitoring and alerting with **Azure Monitor** and **Application Insights**
+- 📱 Developed Android apps with **Java** and integrated REST APIs
+- ✅ Created automated approval workflows for QA/UAT/Production environments
+
+### 🎮 Denedig (2023)
+**Professional Internship - Game Development**
+
+- Built interactive UI systems in **Unity** using **C#**
+- Created build pipelines for automated game releases
+- Optimized game performance and collaborated with design teams
+
+---
+
+## 🎯 Featured Projects
+
+### 🔧 DevOps & Automation
+
+**Android CI/CD Pipeline**
+- Multi-stage YAML pipeline: Build → Test → Sign → Publish
+- Automated versioning and artifact naming
+- Secure credential management with Azure Key Vault
+
+**Containerized Web API**
+- Docker images published to **Azure Container Registry**
+- Deployed to **Azure Container Instances** with health probes
+- Automated monitoring and alerting setup
+
+### 🎮 Game Development
+
+**[Five Nights at Tacubaya](https://github.com/EdgarPinto38)**  
+Survival horror game inspired by the famous FNAF franchise
+
+**[Lección de Supervivencia](https://skullsociety.itch.io/leccin-de-supervivencia)**  
+Decision-making game focused on school emergency situations
+
+**[Crazy Color Neon Gravity Box Adventure](https://skullsociety.itch.io/crazy-color-neon-gravity-box-adventure)**  
+Fast-paced reflex game with gravity-switching mechanics
+
+---
+
+## 🎓 Education
+
+**Universidad Amerike, Mexico City**  
+*Bachelor's in Interactive Software Development & Video Games (2021 - 2025)*
+
+- Software development with Java, C#, and C++
+- Game mechanics programming in Unity
+- VR experience design and optimization
+- Web development and database fundamentals
+
+---
+
+## 🌟 Soft Skills
+```
+✨ Results-oriented     🧠 Problem solver      🤝 Team player
+📚 Fast learner         ⏰ Time management     💬 Clear communicator
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EdgarPinto38&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</p>
+
+---
+
+## 📬 Let's Connect!
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+💼 **LinkedIn:** [Edgar Pinto](https://www.linkedin.com/in/edgar-pinto-0a25232b5/)  
 ✉️ **Email:** edgarpinto010203@gmail.com  
-🎮 **itch.io**  [skullsociety](https://skullsociety.itch.io/) 
+🎮 **itch.io:** [Skull Society](https://skullsociety.itch.io/)  
+💻 **GitHub:** [EdgarPinto38](https://github.com/EdgarPinto38)  
+🌐 **Portfolio:** [edgarpinto38.github.io](https://edgarpinto38.github.io/EdgarPinto/index.html)
 
 ---
 
-### ☯️ "El código es como el agua: se adapta, fluye y encuentra su camino."  
-
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejhjMTA4dTNqa2s0dTh2b3BhaGpyM3A5eXo1M25qanU2MHhhc25ueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NU9hqIw9vN0fm/giphy.gif" width="600" alt="Zen Flow">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" alt="Coding GIF">
 </p>
+
+<h3 align="center">💭 "Building the future, one pipeline at a time" 🚀</h3>
+
+---
+
+<p align="center">⭐ Thanks for stopping by! Feel free to check out my repositories and reach out if you want to collaborate ⭐</p>
